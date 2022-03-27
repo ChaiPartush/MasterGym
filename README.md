@@ -1,7 +1,8 @@
-שלבי העלאת פרויקט לאנדרויד: 
+שלבי העלאת פרויקט לאנדרויד:
+
 1.  לעשות אחד מהצעדים הבאים באובונטו : 
            א. לעשות pull מהgit על ידי הפקודה git pull origin master     
-           ב. למחוק את הפרויקט על ידי הפקודה sudo rm -rf MasterGym ואז לעשות git clone
+           ב. למחוק את הפרויקט על ידי הפקודה sudo rm -rf MasterGym ואז לעשותgit clone
     2. הכנס באובונטו לתקיית הפרויקט והרץ שם את הפקודה sudo buildozer android debug deplot 
     3. פתח Cmd בwindows הכנס לנתיב של platform tools 
     4. הרץ את הפקודה adb --version כדי לבדוק שקיים
